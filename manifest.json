@@ -1,0 +1,27 @@
+{
+  "name": "Component Utility",
+  "id": "1281680817111472375",
+  "api": "1.0.0",
+  "main": "code.js",
+  "capabilities": [],
+  "enableProposedApi": false,
+  "editorType": [
+    "figma"
+  ],
+  "documentAccess": "dynamic-page",
+  "networkAccess": {
+    "allowedDomains": [
+      "none"
+    ]
+  },
+  "menu": [
+    {
+      "name": "Clone",
+      "command": "clone"
+    },
+    {
+      "name": "Link",
+      "command": "link"
+    }
+  ]
+}

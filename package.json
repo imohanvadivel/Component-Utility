@@ -1,0 +1,16 @@
+{
+  "name": "component-utility",
+  "version": "1.0.0",
+  "description": "Your Figma Plugin",
+  "main": "code.js",
+  "scripts": {
+    "build": "esbuild code.ts --bundle --outfile=code.js",
+    "watch": "esbuild code.ts --bundle --watch --outfile=code.js"
+  },
+  "author": "",
+  "license": "",
+  "devDependencies": {
+    "@figma/plugin-typings": "^1.90.0",
+    "typescript": "*"
+  }
+}
